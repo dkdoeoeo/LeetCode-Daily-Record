@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0002-add-two-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
