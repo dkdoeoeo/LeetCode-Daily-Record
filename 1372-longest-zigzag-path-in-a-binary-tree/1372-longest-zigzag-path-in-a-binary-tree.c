@@ -14,7 +14,6 @@ int max(int a,int b){
 }
 
 void DFS(struct TreeNode* curNode,int direction,int len,int* curAns){
-    printf("%d\n",*curAns);
     if(direction == 1){
         if(curNode->right){
             DFS(curNode->right,0,len+1,curAns);
