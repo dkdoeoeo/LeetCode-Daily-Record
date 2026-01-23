@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,16 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
