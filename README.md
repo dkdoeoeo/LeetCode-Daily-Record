@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1929-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
