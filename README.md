@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
+| [0485-max-consecutive-ones](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
