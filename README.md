@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
 | ------- |
