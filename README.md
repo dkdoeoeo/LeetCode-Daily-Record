@@ -20,18 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
