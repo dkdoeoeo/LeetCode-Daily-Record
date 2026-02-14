@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0799-champagne-tower) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
