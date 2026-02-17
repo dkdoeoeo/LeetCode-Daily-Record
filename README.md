@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3721-longest-balanced-subarray-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
