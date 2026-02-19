@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
