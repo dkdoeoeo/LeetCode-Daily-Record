@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1470-shuffle-the-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
