@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1980-find-unique-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
