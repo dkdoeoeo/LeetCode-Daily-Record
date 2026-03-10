@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1895-largest-magic-square) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
