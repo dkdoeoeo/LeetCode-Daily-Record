@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1929-concatenation-of-array) |
