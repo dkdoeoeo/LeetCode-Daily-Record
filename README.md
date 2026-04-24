@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1980-find-unique-binary-string) |
+| [2833-furthest-point-from-origin](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
@@ -282,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2833-furthest-point-from-origin](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
