@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0085-maximal-rectangle) |
 | [0485-max-consecutive-ones](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
