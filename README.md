@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1266-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dkdoeoeo/LeetCode-Daily-Record/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
